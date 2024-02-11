@@ -1,0 +1,23 @@
+.UserNote{
+    /* background-color: red; */
+    min-height: fit-content;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: white;
+    gap:20px
+}
+.timeStamp{
+    width:15%;
+    display: inline;
+    /* background-color: antiquewhite; */
+    font-size: 15px;
+    padding: 5px;
+    margin-left: 50rem;
+}
+.content{
+    width:100%;
+    /* background-color: red; */
+    height: 7rem;
+    padding: 5px;
+}
